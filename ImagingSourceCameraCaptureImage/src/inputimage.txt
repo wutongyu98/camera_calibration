@@ -1,0 +1,1 @@
+/media/nvidia/ssd/data/different_obstacles/bird_diverter_exposure_300ms
