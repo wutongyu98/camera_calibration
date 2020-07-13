@@ -17,6 +17,8 @@ int exposure_time = 5000, w = 1440, h = 1080;
 
 int main(int argc, char** argv)
 {
+    gst_init(&argc, &argv);
+
     // Initialize our TcamCamera object "cam" with the serial number
     // of the camera, which is to be used in this program.
     // my camera is here 03020388 and 03020395
